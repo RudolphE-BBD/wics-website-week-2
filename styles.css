@@ -1,0 +1,17 @@
+body {
+  background-color: lightpink; 
+  color: darkolivegreen; 
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div{
+  background-image: url("https://media.istockphoto.com/id/1438634414/photo/business-women-laptop-and-and-happy-team-in-office-for-web-design-collaboration-and-training.webp?b=1&s=170667a&w=0&k=20&c=Z39Q2AINaUqIpFimbQgkc4mqqFPZJhxWJFjmithmttE=";
+  background-size: cover;
+}
+
+
+a {
+  color: darkolivegreen
+}
